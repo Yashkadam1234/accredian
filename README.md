@@ -54,7 +54,7 @@ Built with a focus on **scalability, reusable components, and real-world SaaS UI
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/accredian-enterprise.git
+git clone https: https://github.com/Yashkadam1234/accredian
 
 # Navigate into the project
 cd accredian-enterprise
@@ -80,22 +80,12 @@ npm start
 ---
 
 ## 🌐 Deploy to Vercel
-
-### Option 1 (Recommended)
-
 * Push code to GitHub
-* Go to [https://vercel.com](https://vercel.com)
+* Go to (https://vercel.com)
 * Import repository
 * Click Deploy
 
-### Option 2 (CLI)
-
-```bash
-npm i -g vercel
-vercel
-```
-
----
+ 
 
 ## 🏗️ Project Structure
 
