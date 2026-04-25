@@ -158,6 +158,4 @@ AI (Claude) was used throughout this project:
 
 ---
 
-## 📝 License
-
-MIT — Feel free to use this as a reference or starting point.
+ 
